@@ -3,7 +3,7 @@ html, body, main, section {
   padding: 0;
   box-sizing: border-box;
   width: 100%;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Chalkduster', sans-serif;
   overflow-x: hidden;
 }
 
@@ -14,7 +14,7 @@ div {
 h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Apple Chancery', sans-serif;
 }
 
 /*NAVBAR*/
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   z-index: 2;
   font-size: 18px;
-  background-image: linear-gradient(260deg, #2A85BC 0%, #044059 100%);
+  background-image: linear-gradient(260deg, Orange 0%, #ff4f4f 100%);
 }
 
 #main-nav {
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2em;
   text-transform: uppercase;
   font-weight: bold;
-  color: white;
+  color: orange;
 }
 
 /*SECTION HEADERS*/
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contactHeader {
-  background-image: url("../img/arcade.jpg");
+  background-image: url("http://benlomandconnect.com/wp-content/uploads/2017/01/Ben-Lomand-Connect-Contact-Us-Icons.png");
 }
 
 /*HERO SECTION*/
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 50vh;
   width: 100%;
   height: 100vh;
-  background-image: url("../img/hero.jpg");
+  background-image: url("https://images7.alphacoders.com/303/thumb-350-303917.jpg");
   background-size: cover;
 }
 
@@ -147,8 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   font-size: 2em;
   text-align: center;
-  background-color: grey;
-  color: white;
+  color: purple;
   padding: 0 2vw;
 }
 
